@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-Hi, I’m **Ayush**, an **AI/ML engineer** working on modern AI systems, LLMs, and high-performance backend logic.
+Hi, I’m **Ayush**, an **AI/ML Engineer** working on modern AI systems, LLMs, and high-performance backend logic.
 
 💠 **Specialization:**  
 - LLM integration & optimization  
